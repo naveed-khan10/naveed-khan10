@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Naveed Khan</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">A Passionate Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveed-khan10&label=Profile%20views&color=0e75b6&style=flat" alt="naveed-khan10" /> </p>
